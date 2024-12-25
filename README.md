@@ -19,6 +19,10 @@ If I had all the freetime in the world, I'd go on long drives, play volleyball i
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
+  <img src= "https://m.media-amazon.com/images/I/81kzXPOOoDL._AC_UF1000,1000_QL80_.jpg" alt="Book 1" width="150" height="230">
+  <img src= "https://m.media-amazon.com/images/I/71VRm2eQyTL._AC_UF1000,1000_QL80_.jpg" alt="Book 1" width="150" height="230">
+  <img src= "https://www.hachettebookgroup.com/wp-content/uploads/2019/07/9780316530200-1.jpg?w=413" alt="Book 1" width="150" height="230">
+  <img src= "https://m.media-amazon.com/images/I/71UzMq1mN+L._AC_UF894,1000_QL80_.jpg" alt="Book 1" width="150" height="230">
   <img src= "https://m.media-amazon.com/images/I/81Xb8fFEkwL.jpg" alt="Book 1" width="150" height="230">
   <img src="https://m.media-amazon.com/images/I/81nq+ewtkcL._AC_UF1000,1000_QL80_.jpg" alt="Book 1" width="150" height="230">
   <img src="https://m.media-amazon.com/images/I/71fg6ReTnOL._AC_UF1000,1000_QL80_.jpg" alt="Book 1" width="150" height="230">
