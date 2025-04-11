@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/360fb7e5-8410-43cd-afe9-24eb9e3abb23)# Hey I'm Hasith! I'm a design engineer helping humans and computers understand the world.
+# Hey I'm Hasith! I'm a design engineer helping humans and computers understand the world.
 
 At UCSB, I'm pursuing an individual major in Computational Neuroscience, to combine my passions in computer science and cognitive psychology. I have a passion for beautiful user interfaces, which you can find
 on my [portfolio](https://www.hasithbasnayake.com), [VR/AR experiences](https://github.com/hasithbasnayake/VR-AR-Juggling), and biologically-plausible ML [research projects](https://github.com/hasithbasnayake/project-dynapse).  
