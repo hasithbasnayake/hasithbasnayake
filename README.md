@@ -46,7 +46,6 @@ If I had all the freetime in the world, I'd go on long drives, play volleyball i
   <img src="https://m.media-amazon.com/images/I/81cb5FCS08L.jpg" alt="Book 20" width="150" height="230">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR58eDU2sb9DeWcR9Dt5883UXm56guHXBrD9w&s" alt="Book 21" width="150" height="230">
   <img src="https://m.media-amazon.com/images/I/81gtjmpWblL._AC_UF1000,1000_QL80_.jpg" alt="Book 22" width="150" height="230">
-  <img src="https://m.media-amazon.com/images/I/81Xb8fFEkwL.jpg" alt="Book 23" width="150" height="230">
 
 </div>
 
