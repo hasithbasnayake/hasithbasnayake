@@ -1,4 +1,4 @@
-# Hey I'm Hasith! I'm a design engineer helping humans and computers understand the world.
+![image](https://github.com/user-attachments/assets/360fb7e5-8410-43cd-afe9-24eb9e3abb23)# Hey I'm Hasith! I'm a design engineer helping humans and computers understand the world.
 
 At UCSB, I'm pursuing an individual major in Computational Neuroscience, to combine my passions in computer science and cognitive psychology. I have a passion for beautiful user interfaces, which you can find
 on my [portfolio](https://www.hasithbasnayake.com), [VR/AR experiences](https://github.com/hasithbasnayake/VR-AR-Juggling), and biologically-plausible ML [research projects](https://github.com/hasithbasnayake/project-dynapse).  
@@ -46,6 +46,7 @@ If I had all the freetime in the world, I'd go on long drives, play volleyball i
   <img src="https://m.media-amazon.com/images/I/81cb5FCS08L.jpg" alt="Book 20" width="150" height="230">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR58eDU2sb9DeWcR9Dt5883UXm56guHXBrD9w&s" alt="Book 21" width="150" height="230">
   <img src="https://m.media-amazon.com/images/I/81gtjmpWblL._AC_UF1000,1000_QL80_.jpg" alt="Book 22" width="150" height="230">
+  <img src="https://m.media-amazon.com/images/I/81Xb8fFEkwL.jpg" alt="Book 23" width="150" height="230">
 
 </div>
 
