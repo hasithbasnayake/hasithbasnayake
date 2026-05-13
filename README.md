@@ -9,9 +9,3 @@ Hey! My name's Hasith. I graduated from UCSB with an individual major in Computa
 
 ## Education
 B.S. Computational Neuroscience from the University of California, Santa Barbara
-
-
-## What I'm Up To 
-* Building biologically-plausible computer vision models @ [Bionic Vision Lab](https://bionicvisionlab.org/)
-* Designing autonomous interfaces @ [CrossnoKaye](https://crossnokaye.com/)
-* Reading tons of science fiction
